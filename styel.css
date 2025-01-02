@@ -15,3 +15,8 @@ ul{
     font-style: normal;
     font-size: 0.8rem;
 }
+li{
+    display: inline-block;
+    padding: 20px 15px;
+    cursor: pointer;
+}
