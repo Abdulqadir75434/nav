@@ -20,3 +20,6 @@ li{
     padding: 20px 15px;
     cursor: pointer;
 }
+li:hover{
+    color: #b6f3ff;
+}
