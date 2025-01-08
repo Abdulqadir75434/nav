@@ -32,3 +32,12 @@ p{
    overflow: scroll;
    box-shadow: 10px 10px 10px black;
 }
+a{
+    display: block;
+    margin-left:20px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
